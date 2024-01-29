@@ -69,7 +69,7 @@ function Main() {
       </div>
 
       <div>
-        <h4 className="text-center text-sm font-medium">demo: useModal (rainbowkit ^0.4.3)</h4>
+        <h4 className="text-center text-sm font-medium">demo: useModal (rainbowkit ^0.8.1)</h4>
         <div className="flex w-full flex-col items-center">
           {openConnectModal && (
             <button
