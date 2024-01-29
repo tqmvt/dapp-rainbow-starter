@@ -4,9 +4,16 @@ Bootstrapped with Next.js + Tailwind CSS + Ethers + wagmi + RainbowKit.
 
 Other tools/components included: Headless UI, Heroicons, Autoprefixer, Sass, PostCSS, ESLint, Prettier.
 
-[Demo](!https://dapp-rainbow-starter.vercel.app/)
+[Demo](https://dapp-rainbow-starter.vercel.app/)
 
 ## Getting Started
+
+### Required dependencies
+
+```bash
+# Node version
+v18.17.0
+```
 
 ```bash
 # Install Dependencies
